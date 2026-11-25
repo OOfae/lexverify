@@ -1,0 +1,10 @@
+# Demonstration analysis. Quotes are real; the failures are deliberate and labelled.
+# Corpus 1e4fcd7897ba41f4850d7687376cac8a32b163f344dbe79393524b0e21d15504 over 8 documents.
+
+- The Court framed the question as one of statutory interpretation, writing that "in parden, the court had held that a private individual could sue "a railroad owned and operated by alabama ." (601us1r03_4gcj).
+- It treated the text as controlling: "(b) in addition to having no basis in the statutory text, requiring a whistleblower to prove his employer's retaliatory intent would ignore the statute's mandatory burden-shifting framework." (601us1r02_c07d).
+- The same reasoning appears in the judgment: "* * * the judgment is vacated, and the case is remanded to the united states court of appeals for the first circuit with instructions to dismiss the case as moot." (601us1r01_q86b).
+- DELIBERATE FAILURE, negated quotation: "and while no court is sensitive to acheson's concern about litigants manipulating this court's jurisdiction, the court is not convinced that laufer abandoned her case in an effort to evade the court's review." (601us1r01_q86b).
+- DELIBERATE FAILURE, unsupported inference: Therefore the rule announced here applies to every filing in every district, without exception.
+- DELIBERATE FAILURE, fabricated quotation: "A statute that is silent is a statute that commands nothing at all." (601us1r01_q86b).
+- DELIBERATE FAILURE, unquoted figure (no span to check, so it needs a judge): The Court noted that the order affected 9,700 parties in the district.
