@@ -1,0 +1,66 @@
+[
+  {
+    "file": "601us1r01_q86b.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r01_q86b.pdf",
+    "sha256": "e9a4ef4eb0e5b94742b6f04226688685db00ecb8c96fd5fe3111f1cd8ae37c7f",
+    "bytes": 304101,
+    "fetched_at": "2026-11-25T14:46:51+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r02_c07d.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r02_c07d.pdf",
+    "sha256": "c2da6be076a9254714c90ed5e0957b2497e53f175a9a0ef17101690f5c31572e",
+    "bytes": 239837,
+    "fetched_at": "2026-11-25T14:46:51+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r03_4gcj.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r03_4gcj.pdf",
+    "sha256": "d7f105379673545840743521e9ac8fbbca60f2566ba09cc473d57e0f5ad39528",
+    "bytes": 269124,
+    "fetched_at": "2026-11-25T14:46:51+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r04_4g15.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r04_4g15.pdf",
+    "sha256": "1364e15a8557caa332d0e731b625048a0f646523d7803f4b560e777dc46b8446",
+    "bytes": 259485,
+    "fetched_at": "2026-11-25T14:46:52+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r05_1qm2.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r05_1qm2.pdf",
+    "sha256": "94765a28cabdf53fbf15b534455ebb78c92934ff2a0123c6327d2d5264c40696",
+    "bytes": 223048,
+    "fetched_at": "2026-11-25T14:46:52+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r06_a86c.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r06_a86c.pdf",
+    "sha256": "ce2f003460a71c9d1ea449c396ee2a690b86a2aa7a42cd71fbaccdb05e86afd2",
+    "bytes": 274716,
+    "fetched_at": "2026-11-25T14:46:52+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r07_19m1.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r07_19m1.pdf",
+    "sha256": "21b45d154ea47e32aa02e1777bdd9b0255fc94f6f819b3250b41d0bbcbed8d6e",
+    "bytes": 468036,
+    "fetched_at": "2026-11-25T14:46:52+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  },
+  {
+    "file": "601us1r08_a8cf.pdf",
+    "url": "https://www.supremecourt.gov/opinions/23pdf/601us1r08_a8cf.pdf",
+    "sha256": "7a590496a2ff5d604c0f3bd2dc7c1638705e3a3d7a74c91299e01d7c1ceb4238",
+    "bytes": 246863,
+    "fetched_at": "2026-11-25T14:46:52+00:00",
+    "licence": "US Government work, public domain (17 U.S.C. 105)"
+  }
+]
