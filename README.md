@@ -7,7 +7,7 @@ harness treats that sentence as untrusted, decides it against hashed source text
 and refuses to emit anything it cannot prove — including the sentences a judge
 model wrote to support them.
 
-## The problem it points at
+SEND.md
 
 Legal AI vendors publish recall and precision for *tagging documents*. The
 product surface has since moved to *writing about them*: analysis, summaries,
